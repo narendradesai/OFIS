@@ -101,6 +101,7 @@ function plusSlides(n) {
 
 }
 
+// Slider
 function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("banner-slider");
